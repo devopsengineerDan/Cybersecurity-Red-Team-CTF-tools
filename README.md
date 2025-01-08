@@ -28,8 +28,7 @@ For each specified image file _zbarimg_ scans the image for bar codes and prints
 - [Volatility Framework](https://www.volatilityfoundation.org/)
 - [Autopsy](https://www.autopsy.com/download/)
 - [Sleuth Kit](https://www.sleuthkit.org/sleuthkit/)
-- []()
-- 
+
 # Reverse Engineering
 
 - [Java Decompiler - JD-GUI](http://java-decompiler.github.io/)
